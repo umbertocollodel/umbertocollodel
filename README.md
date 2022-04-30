@@ -3,7 +3,7 @@
 ## 🚀 About me
 
 👨‍🎓 I am a Ph.D. in International Macroeconomics specialized in crises prediction, with a cross-disciplinary passion for data wrangling. In the last two years,
-I worked for the International Monetary Fund on a project regarding forecasts evaluation and completed some freelancing research assistance in the field of clinical psychology on the link between stress bouts and depression.
+I worked for the International Monetary Fund on a project regarding forecasts evaluation. I also completed some freelancing research assistance in the field of clinical psychology on the link between stress bouts and depression.
 
 🌱 I enjoy learning always something new, to develop and complement my skillset. I just completed an IBM Certification for Data Science in SQL and currently searching for a new challenge.
 
