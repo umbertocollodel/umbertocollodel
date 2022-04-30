@@ -2,9 +2,9 @@
 
 ## 🚀 About me
 
-👨‍🎓 Ph.D. in International Macroeconomics specialized in crises prediction, with a cross-disciplinary passion for data wrangling and modelling. During my doctorate, I worked in different roles for the International Monetary Fund on a data project regarding the evaluation of forecasts. 
+👨‍🎓 Ph.D. in International Macroeconomics specialized in crises prediction, with a cross-disciplinary passion for data wrangling and modelling. 
 
-🔬 Completed some freelancing research assistance in the field of clinical psychology on the link between stress bouts and depression.
+🔬 Worked in different roles for the International Monetary Fund on a project regarding the evaluation of economic forecasts. Completed some freelancing research assistance in the field of clinical psychology on the link between stress bouts and depression.
 
 🌱 Enjoy learning always something new, to develop and complement my skillset. I just completed an IBM Certification for Data Science in SQL 
 
@@ -30,6 +30,11 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=umbertocollodel&theme=dark&background=000000)](https://git.io/streak-stats)
 
+
+
+### :mailbox: Contact me :
+
+[![Linkedin Badge](https://img.shields.io/badge/-Umberto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/umberto-collodel-7a063a116/)
 
 
 
