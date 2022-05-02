@@ -4,7 +4,7 @@
 
 👨‍🎓 Ph.D. in International Macroeconomics with a passion for data wrangling and modelling. 
 
-🔬 Worked in different roles for the International Monetary Fund on a project regarding the evaluation of economic forecasts. Completed some freelancing research assistance in the field of clinical psychology on the link between stress bouts and depression.
+🔬 Worked for the International Monetary Fund and freelancing research assistance in the field of clinical psychology.
 
 🌱 Enjoy learning always something new. I just completed an IBM Certification for Data Science in SQL 
 
