@@ -2,22 +2,23 @@
 
 ## 🚀 About me
 
-👨‍🎓 Ph.D. in International Macroeconomics specialized in crises prediction, with a cross-disciplinary passion for data wrangling and modelling. 
+👨‍🎓 Ph.D. in International Macroeconomics with a passion for data wrangling and modelling. 
 
 🔬 Worked in different roles for the International Monetary Fund on a project regarding the evaluation of economic forecasts. Completed some freelancing research assistance in the field of clinical psychology on the link between stress bouts and depression.
 
-🌱 Enjoy learning always something new, to develop and complement my skillset. I just completed an IBM Certification for Data Science in SQL 
+🌱 Enjoy learning always something new. I just completed an IBM Certification for Data Science in SQL 
 
-📚 Love reading fiction books, particularly in foreign languages and adore discovering new words and expressions. I particularly like books with a magic realism
-(Murakami, Garcia Marquez) or a zen theme (Salwater Buddha, anyone?).
+📚 Books with a magic realism (Murakami, Garcia Marquez) or a zen theme (Salwater Buddha, anyone?).
 
-🏊‍♂️ Sport enthusiast. I have been a swimmer for the past 9 years and a footballer for most of my youth.
+🏊‍♂️ Sport enthusiast. I have been a swimmer for the past 9 years and a footballer for most of my youth. 
 
-### :hammer_and_wrench: Languages and Tools :
+⛰️ If you don't find me, I am in the nature.
+
+### :hammer_and_wrench: Tools I use:
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/stephanieboyle/data_icons/blob/master/icons/SQL/sql-file.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html"  alt="Html" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex"  alt="Latex" width="40" height="40"/>&nbsp;
