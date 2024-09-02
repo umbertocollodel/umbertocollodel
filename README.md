@@ -6,11 +6,11 @@
 
 🔬 Research experience at the International Monetary Fund, OECD, Central Bank of Malta and freelance in the field of clinical psychology.
 
-🌱 Enjoy learning always something new. I just completed an IBM Certification for Data Science in SQL 
+🌱 Enjoy learning always something new. I am now following a Neural Network and Deep Learning course in R.
 
 📚 Books with a magic realism (Murakami, Garcia Marquez), zen theme (Salwater Buddha, anyone?) or hisotrical fiction (Wu ming).
 
-🏊‍♂️ Sport enthusiast. Swimming,climbing, beach volley, etc., you name it. 
+🏊‍♂️ Sport enthusiast. Swimming,climbing, beach volley, etc., you name it. Just started a boxing course.
 
 ⛰️ If you don't find me, I am unwinding in the nature.
 
