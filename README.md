@@ -4,13 +4,13 @@
 
 👨‍🎓 Ph.D. in International Macroeconomics with a passion for data wrangling and modelling. 
 
-🔬 Research experience at the International Monetary Fund, OECD, Central Bank of Malta and freelance in the field of clinical psychology.
+🔬 Research experience at Paris School of Economics, International Monetary Fund, OECD, Central Bank of Malta, and freelance in clinical psychology.
 
-🌱 Enjoy learning always something new. I am now following a Neural Network and Deep Learning course in R.
+🌱 Enjoy always learning something new. 
 
-📚 Books with a magic realism (Murakami, Garcia Marquez), zen theme (Salwater Buddha, anyone?) or hisotrical fiction (Wu ming).
+📚 Books with a magic realism (Murakami, Garcia Marquez), zen theme (e.g. Saltwater Buddha), or historical fiction (e.g. Wu ming).
 
-🏊‍♂️ Sport enthusiast. Swimming,climbing, beach volley, etc., you name it. Just started a boxing course.
+🏊‍♂️ Sports enthusiast. Swimming, climbing, beach volley, etc., you name it.
 
 ⛰️ If you don't find me, I am unwinding in the nature.
 
