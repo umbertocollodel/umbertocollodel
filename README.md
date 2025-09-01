@@ -18,9 +18,9 @@ Outside of work, I am a **lifelong learner** and enjoy exploring new fields, fro
 
 ## 📚 Interests  
 
-- **Research themes**: monetary policy, forecasting, uncertainty, financial markets  
-- **Books**: magical realism (Murakami, García Márquez), zen philosophy (*Saltwater Buddha*), historical fiction (Wu Ming)  
-- **Sports**: swimming, climbing, beach volleyball, and more  
+- **Research themes**: monetary policy surprises, large language models, text mining, external crises 
+- **Books**: magical realism (Murakami, García Márquez), and historical fiction (Wu Ming)  
+- **Sports**: swimming, boxing, beach volleyball, and more  
 - **Lifestyle**: recharging in nature whenever possible  
 
 ---
