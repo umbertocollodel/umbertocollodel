@@ -1,6 +1,8 @@
 # Hi, I’m Umberto!  
 
-*Economist specializing in monetary policy, forecasting, and macro-financial linkages*  
+*Macroeconomist specializing in monetary policy, forecasting, and macro-financial linkages.* 
+
+*My research topics have included the analysis of monetary surprises, the use of Large Language Models in monetary policy, as well as work on forecast evaluation, capital flows, and external crises.*
 
 ## 🚀 About Me  
 
