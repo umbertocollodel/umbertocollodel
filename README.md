@@ -16,7 +16,8 @@
 
 ## 📝 Work in Progress  
 
-- *Interpreting the Interpreter: Can We Model post-ECB Conferences Volatility with LLM Agents?* – [https://arxiv.org/pdf/2508.13635v1]  
+- *Interpreting the Interpreter: Can We Model post-ECB Conferences Volatility with LLM Agents?* – [https://arxiv.org/pdf/2508.13635v1]
+- *Market-based Monetary Policy Uncertainty Shocks in the Euro Area* -[https://www.centralbankmalta.org/site/Publications/Economic%20Research/2025/WP-01-2025.pdf]
 - *Crumbs Make a Loaf - Using Online Product Prices to Nowcast Inflation*
 
 
