@@ -2,7 +2,7 @@
 
 *Macroeconomist specializing in monetary policy, forecasting, and macro-financial linkages.* 
 
-*My research topics have included the analysis of monetary surprises, the use of Large Language Models in monetary policy, as well as work on forecast evaluation, capital flows, and external crises.*
+*My research topics have included the analysis of monetary policy communication, the use of Large Language Models in macroeconomics, as well as work on forecast evaluation, capital flows, and external crises.*
 
 ## 🚀 About Me  
 
@@ -22,6 +22,18 @@
 - *Market-based Monetary Policy Uncertainty Shocks in the Euro Area* -[https://www.centralbankmalta.org/site/Publications/Economic%20Research/2025/WP-01-2025.pdf]
 - *Crumbs Make a Loaf - Using Online Product Prices to Nowcast Inflation*
 
+## 📖 Ph.D. Thesis  
+
+- *The Interplay between Macroeconomic Forecasting, Financial Crises and Complexity*  
+  [https://theses.hal.science/tel-04360051v1/file/COLLODEL.pdf]  
+
+---
+
+## 📂 Research Datasets  
+
+- **The Complex Crises Database**    
+  [https://dataverse.harvard.edu/dataverse/complexcrises]  
+
 
 ---
 
@@ -38,7 +50,7 @@
 
 ## :mailbox: Contact Me  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Umberto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/umberto-collodel-7a063a116/)  
+[![Linkedin Badge](https://img.shields.io/badge/-Umberto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/umberto-collodel-ph-d-7a063a116/?originalSubdomain=fr)
 
 ---
 
