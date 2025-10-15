@@ -1,8 +1,13 @@
 # Hi, I’m Umberto!  
 
-*Macroeconomist specializing in monetary policy, forecasting, and macro-financial linkages.* 
+I am a macroeconomist specializing in monetary policy, forecasting, and macro-financial linkages. My research combines traditional econometric methods with modern machine learning and AI approaches, particularly Large Language Models, to analyze central bank communication and develop improved forecasting tools.
 
-*My research topics have included the analysis of monetary policy communication, the use of Large Language Models in macroeconomics, as well as work on forecast evaluation, capital flows, and external crises.*
+**Research Interests:** Monetary Policy Communication • Forecasting • LLMs in Economics • Financial Crises • Capital Flows
+
+🌐 **Website:** [umbertocollodel.github.io](https://umbertocollodel.github.io)
+
+---
+
 
 ## 🚀 About Me  
 
@@ -18,7 +23,7 @@
 
 ## 🎯 Job Market Paper 
 
-- *Interpreting the Interpreter: Can We Model post-ECB Conferences Volatility with LLM Agents?* – [https://arxiv.org/pdf/2508.13635v1]
+- *Interpreting the Interpreter: Can We Model post-ECB Conferences Volatility with LLM Agents?* – [https://arxiv.org/pdf/2508.13635]
 
 
 ## 📝 Work in Progress  
