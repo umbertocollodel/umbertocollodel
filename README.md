@@ -1,4 +1,6 @@
-# Hi, I’m Umberto!  
+# Hi, I’m Umberto! 
+
+Ph.D. in International Macroeconomics, Paris School of Economics
 
 I am a macroeconomist specializing in monetary policy, forecasting, and macro-financial linkages. My research combines traditional econometric methods with modern machine learning and AI approaches, particularly Large Language Models, to analyze central bank communication and develop improved forecasting tools.
 
@@ -6,43 +8,8 @@ I am a macroeconomist specializing in monetary policy, forecasting, and macro-fi
 
 🌐 **Website:** [umbertocollodel.github.io](https://umbertocollodel.github.io)
 
----
-
-
-## 🚀 About Me  
-
-👨‍🎓 Ph.D. in International Macroeconomics with a passion for data wrangling, modeling, and applied policy analysis.  
-
-🔬 Research experience at the Paris School of Economics, International Monetary Fund, OECD, and Central Bank of Malta.  
-
 📊 Skilled in combining empirical methods with policy-relevant insights.  
-
 🌱 Always eager to learn and explore new approaches in economics, finance, and data science.  
-
----
-
-## 🎯 Job Market Paper 
-
-- *Interpreting the Interpreter: Can We Model post-ECB Conferences Volatility with LLM Agents?* – [https://arxiv.org/pdf/2508.13635]
-
-
-## 📝 Work in Progress  
-
-- *Market-based Monetary Policy Uncertainty Shocks in the Euro Area* -[https://www.centralbankmalta.org/site/Publications/Economic%20Research/2025/WP-01-2025.pdf]
-- *Crumbs Make a Loaf - Using Online Product Prices to Nowcast Inflation*
-
-## 📖 Ph.D. Thesis  
-
-- *The Interplay between Macroeconomic Forecasting, Financial Crises and Complexity*  
-  [https://theses.hal.science/tel-04360051v1/file/COLLODEL.pdf]  
-
----
-
-## 📂 Research Datasets  
-
-- **The Complex Crises Database**    
-  [https://dataverse.harvard.edu/dataverse/complexcrises]  
-
 
 ---
 
