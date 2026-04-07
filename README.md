@@ -1,1 +1,1 @@
-![](./readme-banner(1).svg)
+![](./readme-banner.svg)
